@@ -1,0 +1,14 @@
+
+zadanie 1
+
+O3 React essentials
+03-using-outputting-dynamic-values
+
+mamy tablice 
+["Fundamental", "Crucial", "Core"];
+
+// stworz funkcje ktora bedzie losowała liczbe dlugosci tablicy
+
+nastepnie w tym fragmencie kodu ma sie wyswietlac po kazdym odswiezeniu jedno z 3 slow, oczyiwsic moga sie powtarzac 
+
+
