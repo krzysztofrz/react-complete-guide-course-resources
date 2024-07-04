@@ -12,3 +12,33 @@ mamy tablice
 nastepnie w tym fragmencie kodu ma sie wyswietlac po kazdym odswiezeniu jedno z 3 slow, oczyiwsic moga sie powtarzac 
 
 
+
+
+
+
+
+
+
+
+zadanie 2
+code/03 React Essentials/05-cmp-props
+
+mamy komponent CoreConcept, musimy tam przekazac proopsy nastepnie uzyc tych propsow
+chcemy wiswietlic 4 CoreConcept w kazdym ma byc img, h3 z title i p z description
+tutaj mamy dane 
+/03 React Essentials/05-cmp-props/src/assets/data.js
+
+
+
+
+zadanie 3 - film 55
+/code/03 React Essentials/15-deriving-computing-values
+zaimportuj dane  from './data.js';
+
+wyrenderuj taki 3 elementy pod kazdym z 4 kliknietych przyciskow
+po prostu na klikniecie przycisku ma sie pod nim pojawic tresc p zblzonej strukturze
+<h3>title</h3>
+<p>descrepton</p>
+<pre>
+    <code>code</code>
+</pre>
