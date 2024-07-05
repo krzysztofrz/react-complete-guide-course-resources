@@ -42,3 +42,21 @@ po prostu na klikniecie przycisku ma sie pod nim pojawic tresc p zblzonej strukt
 <pre>
     <code>code</code>
 </pre>
+
+
+
+zadanie 4 , film 56
+03 React Essentials/16-rendering-content-conditionally
+
+wyrenderuj warunkowo ten elementy
+<p>Please select a topic.</p>
+
+a dopiero jak  klikniemy w jakis tab to nie sie wyrenderuje jego tresc 
+
+ <div id="tab-content">
+        <h3>{EXAMPLES[selectedTopic].title}</h3>
+        <p>{EXAMPLES[selectedTopic].description}</p>
+        <pre>
+          <code>{EXAMPLES[selectedTopic].code}</code>
+        </pre>
+      </div>
